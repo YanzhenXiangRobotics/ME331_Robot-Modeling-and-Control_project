@@ -5,7 +5,7 @@ This is our final project of the course ME331: Modeling and Control of Robot at 
 ## Video Demo
 
 ## Tracked Door-shaped Curve
-![E:\Courses_Sopho_Junior\机器人建模与控制\建模与控制project 第9组\pictures\sw_model.jpg]
+![]
 ## Solidworks Model
 
 ## Adams Model
@@ -15,7 +15,7 @@ This is our final project of the course ME331: Modeling and Control of Robot at 
 ### Independent Joint PID Control With Feedback
 ### Computed Torque Control
 ### Nonlinear Feedback Control
-### Team Members
+## Team Members
 Yanzhen Xiang
 Nuo Chen
 Xiaoyu Yan
