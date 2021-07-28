@@ -1,10 +1,10 @@
 # ME331-project
 
 This is our final project of the course ME331: Modeling & Control of Robot at Southern University of Science and Technology(SUSTech). In this project, we mainly focus on trajectory tracking of the 3-DoF parallel delta robot. Basically, we use 5-order polynomial to conduct trajectory planning, and we apply four different control strategies to track the trajectory.
-## Strategies & methods
-![image](https://user-images.githubusercontent.com/54230111/127299693-7181d97d-a38f-4ffc-8d96-8577ead34155.png)
 ## Video demo
 https://user-images.githubusercontent.com/54230111/127287669-a31f560d-4a44-4bb1-895d-7871cbc06db3.mp4
+## Strategies & methods
+![image](https://user-images.githubusercontent.com/54230111/127299693-7181d97d-a38f-4ffc-8d96-8577ead34155.png =50×50)
 ## Detailed descirptions
 ### Planned door-shaped trajectory
 There are different caterories of curves that can be utilized to plan the door-shaped trajectory. Here we explores three kinds of curves: 5-oder polynomial curve, cycloidal curve and trajectory curve. And the comparison of the planned end-effector disposition v.s. time are illustrated as the follows.
