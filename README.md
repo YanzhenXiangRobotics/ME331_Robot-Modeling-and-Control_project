@@ -2,7 +2,7 @@
 
 This is our final project of the course ME331: Modeling & Control of Robot at Southern University of Science and Technology(SUSTech). In this project, we mainly focus on trajectory tracking of the 3-DoF parallel delta robot. Basically, we use 5-order polynomial to conduct trajectory planning, and we apply four different control strategies to track the trajectory.
 ## Strategies & methods
-![image](https://user-images.githubusercontent.com/54230111/127299693-7181d97d-a38f-4ffc-8d96-8577ead34155.png =100×100)
+![image](https://user-images.githubusercontent.com/54230111/127299693-7181d97d-a38f-4ffc-8d96-8577ead34155.png)
 ## Video demo
 https://user-images.githubusercontent.com/54230111/127287669-a31f560d-4a44-4bb1-895d-7871cbc06db3.mp4
 ## Detailed descirptions
